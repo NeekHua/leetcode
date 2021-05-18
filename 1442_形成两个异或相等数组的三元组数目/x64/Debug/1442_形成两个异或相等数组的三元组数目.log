@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\github_commit\leetcode\1442_形成两个异或相等数组的三元组数目\main.cpp(8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  1442_形成两个异或相等数组的三元组数目.vcxproj -> E:\github_commit\leetcode\x64\Debug\1442_形成两个异或相等数组的三元组数目.exe
+  1442_形成两个异或相等数组的三元组数目.vcxproj -> E:\github_commit\leetcode\x64\Debug\1442_形成两个异或相等数组的三元组数目.pdb (Partial PDB)

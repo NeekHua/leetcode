@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\github_commit\leetcode\1738_找出第k大的异或坐标值\main.cpp(8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\github_commit\leetcode\1738_找出第k大的异或坐标值\main.cpp(9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  1738_找出第K大的异或坐标值.vcxproj -> E:\github_commit\leetcode\x64\Debug\1738_找出第K大的异或坐标值.exe
+  1738_找出第K大的异或坐标值.vcxproj -> E:\github_commit\leetcode\x64\Debug\1738_找出第K大的异或坐标值.pdb (Partial PDB)

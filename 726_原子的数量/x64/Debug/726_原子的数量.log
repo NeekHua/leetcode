@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\github_commit\leetcode\726_原子的数量\main.cpp(24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  726_原子的数量.vcxproj -> E:\github_commit\leetcode\x64\Debug\726_原子的数量.exe
+  726_原子的数量.vcxproj -> E:\github_commit\leetcode\x64\Debug\726_原子的数量.pdb (Partial PDB)

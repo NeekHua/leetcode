@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\github_commit\leetcode\1418_点菜展示表\main.cpp(21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\github_commit\leetcode\1418_点菜展示表\main.cpp(29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  1418_点菜展示表.vcxproj -> E:\github_commit\leetcode\x64\Debug\1418_点菜展示表.exe
+  1418_点菜展示表.vcxproj -> E:\github_commit\leetcode\x64\Debug\1418_点菜展示表.pdb (Partial PDB)

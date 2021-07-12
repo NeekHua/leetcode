@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\github_commit\leetcode\275_h指数ii\main.cpp(10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  275_H指数II.vcxproj -> E:\github_commit\leetcode\x64\Debug\275_H指数II.exe
+  275_H指数II.vcxproj -> E:\github_commit\leetcode\x64\Debug\275_H指数II.pdb (Partial PDB)
